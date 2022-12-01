@@ -6,6 +6,8 @@
 | 組員 |C109118185_廖昱涵 |  -  |
 
 ---
+### HOMEWORK 1
+---
 ### 甘特圖
 ![gantt](gantt.png "gantt")
 
