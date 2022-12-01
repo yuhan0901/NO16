@@ -35,6 +35,7 @@
 
 ---
 ### 使用案例圖
+![usecase2](usecase2.JPG "usecase")
 
 ---
 ### 使用案例說明
