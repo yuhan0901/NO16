@@ -44,5 +44,3 @@
 ---
 ### Figma使用案例的動態模擬畫面
 <https://www.figma.com/file/XdpyRDpNbLmgaXZKmU49xv/Untitled?node-id=1%3A3>
-
----
